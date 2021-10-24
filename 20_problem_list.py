@@ -1,0 +1,10 @@
+s1 =int(input("enter marks of s1  :   "))
+s2 = int(input("enter marks of s2  :   "))
+s3 = int(input("enter marks of s3  :   "))
+s4 = int(input("enter marks of s4  :   "))
+s5 = int(input("enter marks of s5  :   "))
+marksofstudent = [s1,s2,s3,s4,s5]
+# print(marksofstudent)
+# print(marksofstudent)
+marksofstudent.sort()
+print(marksofstudent)
