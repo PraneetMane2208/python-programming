@@ -3,7 +3,7 @@ class Solution(object):
     #     a=self.buy(prices)
     #     return int(self.sell(prices)-prices[a])
         
-        
+      #  
     # def buy(self,prices):
     #     n=len(prices)
     #     res=prices[0]
